@@ -3,4 +3,4 @@ You can login with your own username and add the provided secret key in google a
 Admin page credentials
 
 User : admin
-Password : GOD24
+Password : PMT24
